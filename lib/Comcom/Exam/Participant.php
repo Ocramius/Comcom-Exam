@@ -6,6 +6,6 @@ namespace Comcom\Exam;
  *
  * @author ocramius
  */
-interface Partecipant {
+interface Participant {
     
 }
